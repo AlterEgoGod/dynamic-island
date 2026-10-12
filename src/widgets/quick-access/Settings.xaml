@@ -1,0 +1,22 @@
+<Border Background="{DynamicResource Card}" CornerRadius="16" Padding="14" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <StackPanel>
+    <Grid Margin="0,0,0,10">
+      <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+      <TextBlock Text="Программы и ссылки" FontSize="14" FontWeight="SemiBold" VerticalAlignment="Center"/>
+      <Button x:Name="AddQuickApp" Grid.Column="1" Content="Программа" Padding="10,6" Background="{DynamicResource AccentSoft}" FontSize="11" ToolTip="Добавить программу или ярлык"/>
+    </Grid>
+    <StackPanel x:Name="QuickAppEditor"/>
+    <TextBlock Text="Добавить ссылку" FontSize="11" Margin="0,10,0,6"/>
+    <Grid>
+      <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+      <Grid Margin="0,0,8,0">
+        <TextBox x:Name="QuickLinkAddress" MaxLength="4096" Background="{DynamicResource Surface}" AutomationProperties.Name="Адрес ссылки" ToolTip="Вставьте адрес сайта · Enter — добавить"/>
+        <TextBlock Text="https://example.com" Foreground="{DynamicResource Muted}" Margin="10,0" VerticalAlignment="Center" IsHitTestVisible="False">
+          <TextBlock.Style><Style TargetType="TextBlock"><Setter Property="Visibility" Value="Collapsed"/><Style.Triggers><DataTrigger Binding="{Binding Text.Length, ElementName=QuickLinkAddress}" Value="0"><Setter Property="Visibility" Value="Visible"/></DataTrigger></Style.Triggers></Style></TextBlock.Style>
+        </TextBlock>
+      </Grid>
+      <Button x:Name="AddQuickLink" Grid.Column="1" Content="Добавить" Padding="10,6" FontSize="11" Background="{DynamicResource AccentSoft}" AutomationProperties.Name="Добавить ссылку"/>
+    </Grid>
+    <TextBlock x:Name="QuickAppStatus" Text="Вставьте ссылку или выберите программу. Названия можно изменить выше." TextWrapping="Wrap" FontSize="10" Foreground="{DynamicResource Muted}" Margin="0,8,0,0"/>
+  </StackPanel>
+</Border>

@@ -1,0 +1,9 @@
+build/
+dist/
+.env*
+*.user
+*.log
+artifacts/
+.reference/
+.packages/
+.codex/

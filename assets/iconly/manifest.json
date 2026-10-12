@@ -1,0 +1,152 @@
+[
+    {
+        "id":  430,
+        "file":  "setting.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Setting",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "8e8636a7482ad0226b4fde80b8dcd45c8e108d03fdac3dd7f226cefcbafcb1f1"
+    },
+    {
+        "id":  400,
+        "file":  "folder.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Folder",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "d56ee92fdd5d3896be5d2f2932b658860199bc5bcfe3c80dde9c144984ea68a3"
+    },
+    {
+        "id":  394,
+        "file":  "document.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Document",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "5d737cffd45f6f2acacae6387fcc9685908e3262335aab7c5e9e8cb58a39b12b"
+    },
+    {
+        "id":  70728,
+        "file":  "calculator.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Calculator Casino ",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "7f2a8bb775f849d6aad1ae58eb030defbc99e685d7e12c50539d1fd10e5861fd"
+    },
+    {
+        "id":  405,
+        "file":  "home.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Home",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "081d299233ba12c0b584220d02318c00b5bbc980e767b91a2af76ef40cf06108"
+    },
+    {
+        "id":  439,
+        "file":  "time.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Time Circle",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "9b61fcdac1410e5f7202ebb38a146ac91c76bb1025f1e69a6f0648866c028b13"
+    },
+    {
+        "id":  424,
+        "file":  "play.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Play",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "5654b854178d2eb50fcc151193c6408c3cf07c50b505642fad2c36d777e88cd1"
+    },
+    {
+        "id":  36903,
+        "file":  "pause.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Pause",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "ad330af91c01812234fba5f17ca8cf322f8bb3c3c3342e3f5eb7132ac69504bc"
+    },
+    {
+        "id":  388,
+        "file":  "close.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Close Square",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "95c290c07cb9e0fd8e3442657342641425092c292b2c4ec22b6a1725f80fc29b"
+    },
+    {
+        "id":  377,
+        "file":  "pin.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Bookmark",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "029559cb79323cb1d08fcc1cb4c8004e9c44064793432315e787013e9419bd05"
+    },
+    {
+        "id":  440,
+        "file":  "stopwatch.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Time Square",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "96622bd5a3a466097b9b1d3483099579c6ac3299029356a807b983951500eeb2"
+    },
+    {
+        "id":  385,
+        "file":  "brand.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Category",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "21412fd97d01f88734da3774f01b5895e503c0c7b08f27968aa5e01203d1eac5"
+    },
+    {
+        "id":  397,
+        "file":  "edit.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Edit",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "fee9c564817578393b0c9bbd24ceb6e0a3446031fbbd1399954a04e7540c3a17"
+    },
+    {
+        "id":  53671,
+        "file":  "arrow-up.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Arrow Up MD",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "678cc76724b12c1c5b6739c9b42f04a7c6d158d6fb97b8ee029e8d1d82cb2140"
+    },
+    {
+        "id":  53625,
+        "file":  "arrow-down.svg",
+        "provider":  "Iconly Pro",
+        "name":  "Arrow Down MD",
+        "type":  "regular",
+        "source":  "https://iconly.pro",
+        "style":  "Light",
+        "sha256":  "12872d4cedef2bb72a6ec20a6acf9df845f837d06c8dd2820c2bd6f8791fc635"
+    }
+]
